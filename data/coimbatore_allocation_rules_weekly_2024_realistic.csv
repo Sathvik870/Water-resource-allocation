@@ -1,0 +1,266 @@
+week_start,zone,zone_category,priority_level,minimum_lpcd,supply_hours_per_day,tanker_support_flag,restriction_level,festival_week
+2024-01-01,North,Residential,High,135,6.6,0,Low,Yes
+2024-01-01,South,Residential,High,135,6.5,0,Low,Yes
+2024-01-01,East,Mixed,Medium,125,6.6,0,Low,Yes
+2024-01-01,West,Mixed,Medium,125,6.7,0,Low,Yes
+2024-01-01,Central,Commercial,Medium,120,6.5,0,Low,Yes
+2024-01-08,North,Residential,High,135,6.5,0,Low,Yes
+2024-01-08,South,Residential,High,135,6.7,0,Low,Yes
+2024-01-08,East,Mixed,Medium,125,6.6,0,Low,Yes
+2024-01-08,West,Mixed,Medium,125,6.4,0,Low,Yes
+2024-01-08,Central,Commercial,Medium,120,6.6,0,Low,Yes
+2024-01-15,North,Residential,High,135,6.4,0,Low,Yes
+2024-01-15,South,Residential,High,135,6.4,0,Low,Yes
+2024-01-15,East,Mixed,Medium,125,6.5,0,Low,Yes
+2024-01-15,West,Mixed,Medium,125,6.2,0,Low,Yes
+2024-01-15,Central,Commercial,Medium,120,6.2,0,Low,Yes
+2024-01-22,North,Residential,High,135,5.9,0,Low,No
+2024-01-22,South,Residential,High,135,5.8,0,Low,No
+2024-01-22,East,Mixed,Medium,125,6.0,0,Low,No
+2024-01-22,West,Mixed,Medium,125,5.9,0,Low,No
+2024-01-22,Central,Commercial,Medium,120,5.8,0,Low,No
+2024-01-29,North,Residential,High,135,6.2,0,Low,No
+2024-01-29,South,Residential,High,135,6.0,0,Low,No
+2024-01-29,East,Mixed,Medium,125,6.0,0,Low,No
+2024-01-29,West,Mixed,Medium,125,5.8,0,Low,No
+2024-01-29,Central,Commercial,Medium,120,5.9,0,Low,No
+2024-02-05,North,Residential,High,135,6.0,0,Low,No
+2024-02-05,South,Residential,High,135,5.8,0,Low,No
+2024-02-05,East,Mixed,Medium,125,6.1,0,Low,No
+2024-02-05,West,Mixed,Medium,125,5.9,0,Low,No
+2024-02-05,Central,Commercial,Medium,120,6.0,0,Low,No
+2024-02-12,North,Residential,High,135,5.9,0,Low,No
+2024-02-12,South,Residential,High,135,6.3,0,Low,No
+2024-02-12,East,Mixed,Medium,125,6.0,0,Low,No
+2024-02-12,West,Mixed,Medium,125,5.8,0,Low,No
+2024-02-12,Central,Commercial,Medium,120,6.1,0,Low,No
+2024-02-19,North,Residential,High,135,5.8,0,Low,No
+2024-02-19,South,Residential,High,135,6.0,0,Low,No
+2024-02-19,East,Mixed,Medium,125,5.7,0,Low,No
+2024-02-19,West,Mixed,Medium,125,5.8,0,Low,No
+2024-02-19,Central,Commercial,Medium,120,6.0,0,Low,No
+2024-02-26,North,Residential,High,135,6.1,0,Low,No
+2024-02-26,South,Residential,High,135,6.0,0,Low,No
+2024-02-26,East,Mixed,Medium,125,6.0,0,Low,No
+2024-02-26,West,Mixed,Medium,125,6.0,0,Low,No
+2024-02-26,Central,Commercial,Medium,120,5.8,0,Low,No
+2024-03-04,North,Residential,High,135,5.4,1,Moderate,No
+2024-03-04,South,Residential,High,135,5.4,1,Moderate,No
+2024-03-04,East,Mixed,Medium,125,5.7,1,Moderate,No
+2024-03-04,West,Mixed,Medium,125,5.6,1,Moderate,No
+2024-03-04,Central,Commercial,Medium,120,5.2,1,Moderate,No
+2024-03-11,North,Residential,High,135,5.5,1,Moderate,No
+2024-03-11,South,Residential,High,135,5.4,1,Moderate,No
+2024-03-11,East,Mixed,Medium,125,5.4,1,Moderate,No
+2024-03-11,West,Mixed,Medium,125,5.6,1,Moderate,No
+2024-03-11,Central,Commercial,Medium,120,5.7,1,Moderate,No
+2024-03-18,North,Residential,High,135,5.6,1,Moderate,No
+2024-03-18,South,Residential,High,135,5.4,1,Moderate,No
+2024-03-18,East,Mixed,Medium,125,5.5,1,Moderate,No
+2024-03-18,West,Mixed,Medium,125,5.5,1,Moderate,No
+2024-03-18,Central,Commercial,Medium,120,5.6,1,Moderate,No
+2024-03-25,North,Residential,High,135,5.4,1,Moderate,No
+2024-03-25,South,Residential,High,135,5.5,1,Moderate,No
+2024-03-25,East,Mixed,Medium,125,5.3,1,Moderate,No
+2024-03-25,West,Mixed,Medium,125,5.3,1,Moderate,No
+2024-03-25,Central,Commercial,Medium,120,5.6,1,Moderate,No
+2024-04-01,North,Residential,High,135,5.7,1,Moderate,No
+2024-04-01,South,Residential,High,135,5.5,1,Moderate,No
+2024-04-01,East,Mixed,Medium,125,5.7,1,Moderate,No
+2024-04-01,West,Mixed,Medium,125,5.6,1,Moderate,No
+2024-04-01,Central,Commercial,Medium,120,5.4,1,Moderate,No
+2024-04-08,North,Residential,High,135,5.6,1,Moderate,No
+2024-04-08,South,Residential,High,135,5.7,1,Moderate,No
+2024-04-08,East,Mixed,Medium,125,5.5,1,Moderate,No
+2024-04-08,West,Mixed,Medium,125,5.7,1,Moderate,No
+2024-04-08,Central,Commercial,Medium,120,5.1,1,Moderate,No
+2024-04-15,North,Residential,High,135,5.6,1,Moderate,No
+2024-04-15,South,Residential,High,135,5.5,1,Moderate,No
+2024-04-15,East,Mixed,Medium,125,5.5,1,Moderate,No
+2024-04-15,West,Mixed,Medium,125,5.5,1,Moderate,No
+2024-04-15,Central,Commercial,Medium,120,5.2,1,Moderate,No
+2024-04-22,North,Residential,High,135,5.5,1,Moderate,No
+2024-04-22,South,Residential,High,135,5.6,1,Moderate,No
+2024-04-22,East,Mixed,Medium,125,5.7,1,Moderate,No
+2024-04-22,West,Mixed,Medium,125,5.4,1,Moderate,No
+2024-04-22,Central,Commercial,Medium,120,5.4,1,Moderate,No
+2024-04-29,North,Residential,High,135,5.4,1,Moderate,No
+2024-04-29,South,Residential,High,135,5.6,1,Moderate,No
+2024-04-29,East,Mixed,Medium,125,5.5,1,Moderate,No
+2024-04-29,West,Mixed,Medium,125,5.4,1,Moderate,No
+2024-04-29,Central,Commercial,Medium,120,5.6,1,Moderate,No
+2024-05-06,North,Residential,High,135,5.5,1,Moderate,No
+2024-05-06,South,Residential,High,135,5.6,1,Moderate,No
+2024-05-06,East,Mixed,Medium,125,5.4,1,Moderate,No
+2024-05-06,West,Mixed,Medium,125,5.5,1,Moderate,No
+2024-05-06,Central,Commercial,Medium,120,5.4,1,Moderate,No
+2024-05-13,North,Residential,High,135,5.3,1,Moderate,No
+2024-05-13,South,Residential,High,135,5.5,1,Moderate,No
+2024-05-13,East,Mixed,Medium,125,5.5,1,Moderate,No
+2024-05-13,West,Mixed,Medium,125,5.5,1,Moderate,No
+2024-05-13,Central,Commercial,Medium,120,5.5,1,Moderate,No
+2024-05-20,North,Residential,High,135,5.3,1,Moderate,No
+2024-05-20,South,Residential,High,135,5.4,1,Moderate,No
+2024-05-20,East,Mixed,Medium,125,5.4,1,Moderate,No
+2024-05-20,West,Mixed,Medium,125,5.4,1,Moderate,No
+2024-05-20,Central,Commercial,Medium,120,5.5,1,Moderate,No
+2024-05-27,North,Residential,High,135,5.6,1,Moderate,No
+2024-05-27,South,Residential,High,135,5.8,1,Moderate,No
+2024-05-27,East,Mixed,Medium,125,5.5,1,Moderate,No
+2024-05-27,West,Mixed,Medium,125,5.5,1,Moderate,No
+2024-05-27,Central,Commercial,Medium,120,5.5,1,Moderate,No
+2024-06-03,North,Residential,High,135,6.2,0,Low,No
+2024-06-03,South,Residential,High,135,6.5,0,Low,No
+2024-06-03,East,Mixed,Medium,125,6.5,0,Low,No
+2024-06-03,West,Mixed,Medium,125,6.9,0,Low,No
+2024-06-03,Central,Commercial,Medium,120,6.5,0,Low,No
+2024-06-10,North,Residential,High,135,6.5,0,Low,No
+2024-06-10,South,Residential,High,135,6.5,0,Low,No
+2024-06-10,East,Mixed,Medium,125,6.3,0,Low,No
+2024-06-10,West,Mixed,Medium,125,6.7,0,Low,No
+2024-06-10,Central,Commercial,Medium,120,6.6,0,Low,No
+2024-06-17,North,Residential,High,135,6.6,0,Low,No
+2024-06-17,South,Residential,High,135,6.4,0,Low,No
+2024-06-17,East,Mixed,Medium,125,6.7,0,Low,No
+2024-06-17,West,Mixed,Medium,125,6.3,0,Low,No
+2024-06-17,Central,Commercial,Medium,120,6.6,0,Low,No
+2024-06-24,North,Residential,High,135,6.8,0,Low,No
+2024-06-24,South,Residential,High,135,6.4,0,Low,No
+2024-06-24,East,Mixed,Medium,125,6.4,0,Low,No
+2024-06-24,West,Mixed,Medium,125,6.5,0,Low,No
+2024-06-24,Central,Commercial,Medium,120,6.4,0,Low,No
+2024-07-01,North,Residential,High,135,6.3,0,Low,No
+2024-07-01,South,Residential,High,135,6.5,0,Low,No
+2024-07-01,East,Mixed,Medium,125,6.3,0,Low,No
+2024-07-01,West,Mixed,Medium,125,6.6,0,Low,No
+2024-07-01,Central,Commercial,Medium,120,6.4,0,Low,No
+2024-07-08,North,Residential,High,135,6.7,0,Low,No
+2024-07-08,South,Residential,High,135,6.4,0,Low,No
+2024-07-08,East,Mixed,Medium,125,6.5,0,Low,No
+2024-07-08,West,Mixed,Medium,125,6.6,0,Low,No
+2024-07-08,Central,Commercial,Medium,120,6.3,0,Low,No
+2024-07-15,North,Residential,High,135,6.5,0,Low,No
+2024-07-15,South,Residential,High,135,6.7,0,Low,No
+2024-07-15,East,Mixed,Medium,125,6.3,0,Low,No
+2024-07-15,West,Mixed,Medium,125,6.5,0,Low,No
+2024-07-15,Central,Commercial,Medium,120,6.5,0,Low,No
+2024-07-22,North,Residential,High,135,6.6,0,Low,No
+2024-07-22,South,Residential,High,135,6.3,0,Low,No
+2024-07-22,East,Mixed,Medium,125,6.3,0,Low,No
+2024-07-22,West,Mixed,Medium,125,6.6,0,Low,No
+2024-07-22,Central,Commercial,Medium,120,6.5,0,Low,No
+2024-07-29,North,Residential,High,135,6.5,0,Low,No
+2024-07-29,South,Residential,High,135,6.6,0,Low,No
+2024-07-29,East,Mixed,Medium,125,6.4,0,Low,No
+2024-07-29,West,Mixed,Medium,125,6.5,0,Low,No
+2024-07-29,Central,Commercial,Medium,120,6.5,0,Low,No
+2024-08-05,North,Residential,High,135,6.4,0,Low,No
+2024-08-05,South,Residential,High,135,6.8,0,Low,No
+2024-08-05,East,Mixed,Medium,125,6.6,0,Low,No
+2024-08-05,West,Mixed,Medium,125,6.3,0,Low,No
+2024-08-05,Central,Commercial,Medium,120,6.6,0,Low,No
+2024-08-12,North,Residential,High,135,6.4,0,Low,No
+2024-08-12,South,Residential,High,135,6.6,0,Low,No
+2024-08-12,East,Mixed,Medium,125,6.7,0,Low,No
+2024-08-12,West,Mixed,Medium,125,6.4,0,Low,No
+2024-08-12,Central,Commercial,Medium,120,6.6,0,Low,No
+2024-08-19,North,Residential,High,135,6.6,0,Low,No
+2024-08-19,South,Residential,High,135,6.6,0,Low,No
+2024-08-19,East,Mixed,Medium,125,6.8,0,Low,No
+2024-08-19,West,Mixed,Medium,125,6.5,0,Low,No
+2024-08-19,Central,Commercial,Medium,120,6.4,0,Low,No
+2024-08-26,North,Residential,High,135,6.4,0,Low,No
+2024-08-26,South,Residential,High,135,6.4,0,Low,No
+2024-08-26,East,Mixed,Medium,125,6.5,0,Low,No
+2024-08-26,West,Mixed,Medium,125,6.6,0,Low,No
+2024-08-26,Central,Commercial,Medium,120,6.5,0,Low,No
+2024-09-02,North,Residential,High,135,6.6,0,Low,No
+2024-09-02,South,Residential,High,135,6.5,0,Low,No
+2024-09-02,East,Mixed,Medium,125,6.7,0,Low,No
+2024-09-02,West,Mixed,Medium,125,6.5,0,Low,No
+2024-09-02,Central,Commercial,Medium,120,6.9,0,Low,No
+2024-09-09,North,Residential,High,135,6.6,0,Low,No
+2024-09-09,South,Residential,High,135,6.4,0,Low,No
+2024-09-09,East,Mixed,Medium,125,6.3,0,Low,No
+2024-09-09,West,Mixed,Medium,125,6.6,0,Low,No
+2024-09-09,Central,Commercial,Medium,120,6.5,0,Low,No
+2024-09-16,North,Residential,High,135,6.6,0,Low,No
+2024-09-16,South,Residential,High,135,6.6,0,Low,No
+2024-09-16,East,Mixed,Medium,125,6.5,0,Low,No
+2024-09-16,West,Mixed,Medium,125,6.4,0,Low,No
+2024-09-16,Central,Commercial,Medium,120,6.3,0,Low,No
+2024-09-23,North,Residential,High,135,6.4,0,Low,No
+2024-09-23,South,Residential,High,135,6.6,0,Low,No
+2024-09-23,East,Mixed,Medium,125,6.5,0,Low,No
+2024-09-23,West,Mixed,Medium,125,6.3,0,Low,No
+2024-09-23,Central,Commercial,Medium,120,6.5,0,Low,No
+2024-09-30,North,Residential,High,135,6.6,0,Low,No
+2024-09-30,South,Residential,High,135,6.4,0,Low,No
+2024-09-30,East,Mixed,Medium,125,6.5,0,Low,No
+2024-09-30,West,Mixed,Medium,125,6.5,0,Low,No
+2024-09-30,Central,Commercial,Medium,120,6.3,0,Low,No
+2024-10-07,North,Residential,High,135,8.1,0,Very Low,Yes
+2024-10-07,South,Residential,High,135,8.1,0,Very Low,Yes
+2024-10-07,East,Mixed,Medium,125,8.2,0,Very Low,Yes
+2024-10-07,West,Mixed,Medium,125,8.2,0,Very Low,Yes
+2024-10-07,Central,Commercial,Medium,120,7.8,0,Very Low,Yes
+2024-10-14,North,Residential,High,135,7.9,0,Very Low,Yes
+2024-10-14,South,Residential,High,135,8.1,0,Very Low,Yes
+2024-10-14,East,Mixed,Medium,125,8.1,0,Very Low,Yes
+2024-10-14,West,Mixed,Medium,125,8.1,0,Very Low,Yes
+2024-10-14,Central,Commercial,Medium,120,8.5,0,Very Low,Yes
+2024-10-21,North,Residential,High,135,8.1,0,Very Low,Yes
+2024-10-21,South,Residential,High,135,8.2,0,Very Low,Yes
+2024-10-21,East,Mixed,Medium,125,8.1,0,Very Low,Yes
+2024-10-21,West,Mixed,Medium,125,8.1,0,Very Low,Yes
+2024-10-21,Central,Commercial,Medium,120,8.0,0,Very Low,Yes
+2024-10-28,North,Residential,High,135,8.1,0,Very Low,Yes
+2024-10-28,South,Residential,High,135,7.9,0,Very Low,Yes
+2024-10-28,East,Mixed,Medium,125,8.0,0,Very Low,Yes
+2024-10-28,West,Mixed,Medium,125,7.9,0,Very Low,Yes
+2024-10-28,Central,Commercial,Medium,120,8.0,0,Very Low,Yes
+2024-11-04,North,Residential,High,135,8.3,0,Very Low,Yes
+2024-11-04,South,Residential,High,135,7.7,0,Very Low,Yes
+2024-11-04,East,Mixed,Medium,125,8.1,0,Very Low,Yes
+2024-11-04,West,Mixed,Medium,125,7.8,0,Very Low,Yes
+2024-11-04,Central,Commercial,Medium,120,7.9,0,Very Low,Yes
+2024-11-11,North,Residential,High,135,8.2,0,Very Low,Yes
+2024-11-11,South,Residential,High,135,8.0,0,Very Low,Yes
+2024-11-11,East,Mixed,Medium,125,7.8,0,Very Low,Yes
+2024-11-11,West,Mixed,Medium,125,7.9,0,Very Low,Yes
+2024-11-11,Central,Commercial,Medium,120,8.1,0,Very Low,Yes
+2024-11-18,North,Residential,High,135,7.9,0,Very Low,Yes
+2024-11-18,South,Residential,High,135,8.0,0,Very Low,Yes
+2024-11-18,East,Mixed,Medium,125,8.0,0,Very Low,Yes
+2024-11-18,West,Mixed,Medium,125,7.9,0,Very Low,Yes
+2024-11-18,Central,Commercial,Medium,120,8.3,0,Very Low,Yes
+2024-11-25,North,Residential,High,135,8.1,0,Very Low,Yes
+2024-11-25,South,Residential,High,135,7.7,0,Very Low,Yes
+2024-11-25,East,Mixed,Medium,125,8.0,0,Very Low,Yes
+2024-11-25,West,Mixed,Medium,125,7.9,0,Very Low,Yes
+2024-11-25,Central,Commercial,Medium,120,8.1,0,Very Low,Yes
+2024-12-02,North,Residential,High,135,5.9,0,Low,No
+2024-12-02,South,Residential,High,135,6.0,0,Low,No
+2024-12-02,East,Mixed,Medium,125,6.1,0,Low,No
+2024-12-02,West,Mixed,Medium,125,6.1,0,Low,No
+2024-12-02,Central,Commercial,Medium,120,5.8,0,Low,No
+2024-12-09,North,Residential,High,135,5.9,0,Low,No
+2024-12-09,South,Residential,High,135,5.9,0,Low,No
+2024-12-09,East,Mixed,Medium,125,5.9,0,Low,No
+2024-12-09,West,Mixed,Medium,125,6.3,0,Low,No
+2024-12-09,Central,Commercial,Medium,120,6.1,0,Low,No
+2024-12-16,North,Residential,High,135,5.8,0,Low,No
+2024-12-16,South,Residential,High,135,6.1,0,Low,No
+2024-12-16,East,Mixed,Medium,125,6.3,0,Low,No
+2024-12-16,West,Mixed,Medium,125,6.2,0,Low,No
+2024-12-16,Central,Commercial,Medium,120,5.8,0,Low,No
+2024-12-23,North,Residential,High,135,6.4,0,Low,Yes
+2024-12-23,South,Residential,High,135,6.7,0,Low,Yes
+2024-12-23,East,Mixed,Medium,125,6.4,0,Low,Yes
+2024-12-23,West,Mixed,Medium,125,6.6,0,Low,Yes
+2024-12-23,Central,Commercial,Medium,120,6.6,0,Low,Yes
+2024-12-30,North,Residential,High,135,6.4,0,Low,Yes
+2024-12-30,South,Residential,High,135,6.5,0,Low,Yes
+2024-12-30,East,Mixed,Medium,125,6.0,0,Low,Yes
+2024-12-30,West,Mixed,Medium,125,6.3,0,Low,Yes
+2024-12-30,Central,Commercial,Medium,120,6.5,0,Low,Yes

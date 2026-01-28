@@ -1,0 +1,261 @@
+scenario_id,week,rainfall_condition,total_supply_mld,total_demand_mld,supply_demand_gap_mld,allocation_efficiency_percent,equity_score,system_status,allocation_strategy
+S1_Normal,1,Normal,376.22,426.55,-50.33,88.2,0.87,Critical,Balanced
+S2_LowSupply,1,Normal,319.79,426.55,-106.76,74.97,0.78,Critical,Residential Priority
+S3_HighDemand,1,Normal,376.22,490.53,-114.31,76.7,0.78,Critical,Balanced
+S4_RainBoost,1,High,413.84,426.55,-12.71,97.02,0.76,Stressed,Balanced
+S5_Optimized,1,High,376.22,426.55,-50.33,88.2,0.92,Critical,Optimized Allocation
+S1_Normal,2,Low,392.08,409.57,-17.49,95.73,0.94,Stressed,Balanced
+S2_LowSupply,2,Low,333.27,409.57,-76.3,81.37,0.92,Critical,Residential Priority
+S3_HighDemand,2,Low,392.08,471.0,-78.92,83.24,0.79,Critical,Balanced
+S4_RainBoost,2,High,431.29,409.57,21.72,100.0,0.79,Stable,Balanced
+S5_Optimized,2,High,392.08,409.57,-17.49,95.73,0.79,Stressed,Optimized Allocation
+S1_Normal,3,Normal,371.3,396.73,-25.44,93.59,0.81,Stressed,Balanced
+S2_LowSupply,3,Normal,315.6,396.73,-81.13,79.55,0.87,Critical,Residential Priority
+S3_HighDemand,3,Normal,371.3,456.24,-84.95,81.38,0.78,Critical,Balanced
+S4_RainBoost,3,High,408.43,396.73,11.69,100.0,0.81,Stable,Balanced
+S5_Optimized,3,High,371.3,396.73,-25.44,93.59,0.82,Stressed,Optimized Allocation
+S1_Normal,4,Low,381.92,414.96,-33.04,92.04,0.85,Critical,Balanced
+S2_LowSupply,4,Low,324.64,414.96,-90.33,78.23,0.87,Critical,Residential Priority
+S3_HighDemand,4,Low,381.92,477.21,-95.28,80.03,0.76,Critical,Balanced
+S4_RainBoost,4,High,420.12,414.96,5.16,100.0,0.87,Stable,Balanced
+S5_Optimized,4,High,381.92,414.96,-33.04,92.04,0.78,Critical,Optimized Allocation
+S1_Normal,5,High,354.55,426.42,-71.87,83.15,0.91,Critical,Balanced
+S2_LowSupply,5,High,301.37,426.42,-125.05,70.67,0.81,Critical,Residential Priority
+S3_HighDemand,5,High,354.55,490.39,-135.83,72.3,0.77,Critical,Balanced
+S4_RainBoost,5,High,390.01,426.42,-36.41,91.46,0.89,Critical,Balanced
+S5_Optimized,5,High,354.55,426.42,-71.87,83.15,0.84,Critical,Optimized Allocation
+S1_Normal,6,Low,358.54,394.66,-36.12,90.85,0.93,Critical,Balanced
+S2_LowSupply,6,Low,304.76,394.66,-89.9,77.22,0.8,Critical,Residential Priority
+S3_HighDemand,6,Low,358.54,453.86,-95.32,79.0,0.88,Critical,Balanced
+S4_RainBoost,6,High,394.4,394.66,-0.27,99.93,0.81,Stable,Balanced
+S5_Optimized,6,High,358.54,394.66,-36.12,90.85,0.85,Critical,Optimized Allocation
+S1_Normal,7,High,388.27,372.94,15.33,100.0,0.91,Stable,Balanced
+S2_LowSupply,7,High,330.03,372.94,-42.91,88.49,0.94,Critical,Residential Priority
+S3_HighDemand,7,High,388.27,428.88,-40.61,90.53,0.93,Critical,Balanced
+S4_RainBoost,7,High,427.1,372.94,54.16,100.0,0.87,Stable,Balanced
+S5_Optimized,7,High,388.27,372.94,15.33,100.0,0.93,Stable,Optimized Allocation
+S1_Normal,8,Low,356.19,373.72,-17.52,95.31,0.82,Stressed,Balanced
+S2_LowSupply,8,Low,302.77,373.72,-70.95,81.01,0.83,Critical,Residential Priority
+S3_HighDemand,8,Low,356.19,429.78,-73.58,82.88,0.8,Critical,Balanced
+S4_RainBoost,8,High,391.81,373.72,18.1,100.0,0.92,Stable,Balanced
+S5_Optimized,8,High,356.19,373.72,-17.52,95.31,0.82,Stressed,Optimized Allocation
+S1_Normal,9,Low,369.67,397.99,-28.32,92.88,0.91,Stressed,Balanced
+S2_LowSupply,9,Low,314.22,397.99,-83.77,78.95,0.76,Critical,Residential Priority
+S3_HighDemand,9,Low,369.67,457.69,-88.02,80.77,0.95,Critical,Balanced
+S4_RainBoost,9,High,406.63,397.99,8.64,100.0,0.9,Stable,Balanced
+S5_Optimized,9,High,369.67,397.99,-28.32,92.88,0.79,Stressed,Optimized Allocation
+S1_Normal,10,Normal,350.39,417.08,-66.7,84.01,0.9,Critical,Balanced
+S2_LowSupply,10,Normal,297.83,417.08,-119.25,71.41,0.9,Critical,Residential Priority
+S3_HighDemand,10,Normal,350.39,479.64,-129.26,73.05,0.76,Critical,Balanced
+S4_RainBoost,10,High,385.43,417.08,-31.66,92.41,0.82,Critical,Balanced
+S5_Optimized,10,High,350.39,417.08,-66.7,84.01,0.77,Critical,Optimized Allocation
+S1_Normal,11,Normal,410.42,403.63,6.79,100.0,0.76,Stable,Balanced
+S2_LowSupply,11,Normal,348.85,403.63,-54.78,86.43,0.81,Critical,Residential Priority
+S3_HighDemand,11,Normal,410.42,464.18,-53.76,88.42,0.82,Critical,Balanced
+S4_RainBoost,11,High,451.46,403.63,47.83,100.0,0.9,Stable,Balanced
+S5_Optimized,11,High,410.42,403.63,6.79,100.0,0.88,Stable,Optimized Allocation
+S1_Normal,12,Low,412.1,393.06,19.05,100.0,0.89,Stable,Balanced
+S2_LowSupply,12,Low,350.29,393.06,-42.77,89.12,0.9,Critical,Residential Priority
+S3_HighDemand,12,Low,412.1,452.01,-39.91,91.17,0.86,Critical,Balanced
+S4_RainBoost,12,High,453.32,393.06,60.26,100.0,0.9,Stable,Balanced
+S5_Optimized,12,High,412.1,393.06,19.05,100.0,0.85,Stable,Optimized Allocation
+S1_Normal,13,Low,386.59,389.93,-3.34,99.14,0.77,Stable,Balanced
+S2_LowSupply,13,Low,328.6,389.93,-61.33,84.27,0.76,Critical,Residential Priority
+S3_HighDemand,13,Low,386.59,448.42,-61.83,86.21,0.88,Critical,Balanced
+S4_RainBoost,13,High,425.25,389.93,35.32,100.0,0.81,Stable,Balanced
+S5_Optimized,13,High,386.59,389.93,-3.34,99.14,0.85,Stable,Optimized Allocation
+S1_Normal,14,Normal,413.53,377.45,36.08,100.0,0.9,Stable,Balanced
+S2_LowSupply,14,Normal,351.5,377.45,-25.95,93.12,0.8,Stressed,Residential Priority
+S3_HighDemand,14,Normal,413.53,434.07,-20.54,95.27,0.77,Stressed,Balanced
+S4_RainBoost,14,High,454.88,377.45,77.43,100.0,0.81,Stable,Balanced
+S5_Optimized,14,High,413.53,377.45,36.08,100.0,0.78,Stable,Optimized Allocation
+S1_Normal,15,Normal,415.08,416.57,-1.49,99.64,0.92,Stable,Balanced
+S2_LowSupply,15,Normal,352.82,416.57,-63.75,84.7,0.91,Critical,Residential Priority
+S3_HighDemand,15,Normal,415.08,479.05,-63.97,86.65,0.79,Critical,Balanced
+S4_RainBoost,15,High,456.59,416.57,40.02,100.0,0.93,Stable,Balanced
+S5_Optimized,15,High,415.08,416.57,-1.49,99.64,0.86,Stable,Optimized Allocation
+S1_Normal,16,Normal,406.52,422.73,-16.21,96.17,0.77,Stressed,Balanced
+S2_LowSupply,16,Normal,345.54,422.73,-77.18,81.74,0.8,Critical,Residential Priority
+S3_HighDemand,16,Normal,406.52,486.14,-79.61,83.62,0.84,Critical,Balanced
+S4_RainBoost,16,High,447.17,422.73,24.45,100.0,0.91,Stable,Balanced
+S5_Optimized,16,High,406.52,422.73,-16.21,96.17,0.92,Stressed,Optimized Allocation
+S1_Normal,17,Normal,350.49,395.75,-45.27,88.56,0.79,Critical,Balanced
+S2_LowSupply,17,Normal,297.91,395.75,-97.84,75.28,0.77,Critical,Residential Priority
+S3_HighDemand,17,Normal,350.49,455.12,-104.63,77.01,0.82,Critical,Balanced
+S4_RainBoost,17,High,385.54,395.75,-10.22,97.42,0.94,Stressed,Balanced
+S5_Optimized,17,High,350.49,395.75,-45.27,88.56,0.81,Critical,Optimized Allocation
+S1_Normal,18,Normal,386.32,409.21,-22.9,94.4,0.94,Stressed,Balanced
+S2_LowSupply,18,Normal,328.37,409.21,-80.84,80.24,0.94,Critical,Residential Priority
+S3_HighDemand,18,Normal,386.32,470.59,-84.28,82.09,0.8,Critical,Balanced
+S4_RainBoost,18,High,424.95,409.21,15.74,100.0,0.85,Stable,Balanced
+S5_Optimized,18,High,386.32,409.21,-22.9,94.4,0.81,Stressed,Optimized Allocation
+S1_Normal,19,Normal,369.94,362.58,7.36,100.0,0.85,Stable,Balanced
+S2_LowSupply,19,Normal,314.45,362.58,-48.13,86.72,0.76,Critical,Residential Priority
+S3_HighDemand,19,Normal,369.94,416.97,-47.03,88.72,0.81,Critical,Balanced
+S4_RainBoost,19,High,406.93,362.58,44.35,100.0,0.93,Stable,Balanced
+S5_Optimized,19,High,369.94,362.58,7.36,100.0,0.8,Stable,Optimized Allocation
+S1_Normal,20,High,360.14,394.26,-34.12,91.35,0.8,Critical,Balanced
+S2_LowSupply,20,High,306.12,394.26,-88.14,77.64,0.88,Critical,Residential Priority
+S3_HighDemand,20,High,360.14,453.4,-93.26,79.43,0.9,Critical,Balanced
+S4_RainBoost,20,High,396.16,394.26,1.9,100.0,0.8,Stable,Balanced
+S5_Optimized,20,High,360.14,394.26,-34.12,91.35,0.9,Critical,Optimized Allocation
+S1_Normal,21,Normal,375.74,404.26,-28.52,92.95,0.86,Stressed,Balanced
+S2_LowSupply,21,Normal,319.38,404.26,-84.88,79.0,0.77,Critical,Residential Priority
+S3_HighDemand,21,Normal,375.74,464.9,-89.16,80.82,0.92,Critical,Balanced
+S4_RainBoost,21,High,413.32,404.26,9.06,100.0,0.81,Stable,Balanced
+S5_Optimized,21,High,375.74,404.26,-28.52,92.95,0.79,Stressed,Optimized Allocation
+S1_Normal,22,Normal,352.85,401.36,-48.51,87.91,0.75,Critical,Balanced
+S2_LowSupply,22,Normal,299.93,401.36,-101.44,74.73,0.85,Critical,Residential Priority
+S3_HighDemand,22,Normal,352.85,461.57,-108.71,76.45,0.8,Critical,Balanced
+S4_RainBoost,22,High,388.14,401.36,-13.22,96.71,0.88,Stressed,Balanced
+S5_Optimized,22,High,352.85,401.36,-48.51,87.91,0.78,Critical,Optimized Allocation
+S1_Normal,23,High,398.37,387.07,11.29,100.0,0.78,Stable,Balanced
+S2_LowSupply,23,High,338.61,387.07,-48.46,87.48,0.82,Critical,Residential Priority
+S3_HighDemand,23,High,398.37,445.13,-46.77,89.49,0.77,Critical,Balanced
+S4_RainBoost,23,High,438.2,387.07,51.13,100.0,0.93,Stable,Balanced
+S5_Optimized,23,High,398.37,387.07,11.29,100.0,0.93,Stable,Optimized Allocation
+S1_Normal,24,High,368.06,406.2,-38.14,90.61,0.86,Critical,Balanced
+S2_LowSupply,24,High,312.85,406.2,-93.35,77.02,0.86,Critical,Residential Priority
+S3_HighDemand,24,High,368.06,467.13,-99.07,78.79,0.8,Critical,Balanced
+S4_RainBoost,24,High,404.86,406.2,-1.34,99.67,0.77,Stable,Balanced
+S5_Optimized,24,High,368.06,406.2,-38.14,90.61,0.93,Critical,Optimized Allocation
+S1_Normal,25,Normal,413.03,404.32,8.71,100.0,0.82,Stable,Balanced
+S2_LowSupply,25,Normal,351.07,404.32,-53.24,86.83,0.9,Critical,Residential Priority
+S3_HighDemand,25,Normal,413.03,464.96,-51.94,88.83,0.93,Critical,Balanced
+S4_RainBoost,25,High,454.33,404.32,50.02,100.0,0.93,Stable,Balanced
+S5_Optimized,25,High,413.03,404.32,8.71,100.0,0.91,Stable,Optimized Allocation
+S1_Normal,26,Low,394.94,365.89,29.05,100.0,0.93,Stable,Balanced
+S2_LowSupply,26,Low,335.7,365.89,-30.19,91.75,0.87,Critical,Residential Priority
+S3_HighDemand,26,Low,394.94,420.77,-25.83,93.86,0.75,Stressed,Balanced
+S4_RainBoost,26,High,434.44,365.89,68.55,100.0,0.77,Stable,Balanced
+S5_Optimized,26,High,394.94,365.89,29.05,100.0,0.88,Stable,Optimized Allocation
+S1_Normal,27,Normal,350.35,371.26,-20.9,94.37,0.89,Stressed,Balanced
+S2_LowSupply,27,Normal,297.8,371.26,-73.46,80.21,0.88,Critical,Residential Priority
+S3_HighDemand,27,Normal,350.35,426.95,-76.59,82.06,0.79,Critical,Balanced
+S4_RainBoost,27,High,385.39,371.26,14.13,100.0,0.89,Stable,Balanced
+S5_Optimized,27,High,350.35,371.26,-20.9,94.37,0.8,Stressed,Optimized Allocation
+S1_Normal,28,Normal,372.78,412.25,-39.48,90.42,0.92,Critical,Balanced
+S2_LowSupply,28,Normal,316.86,412.25,-95.39,76.86,0.88,Critical,Residential Priority
+S3_HighDemand,28,Normal,372.78,474.09,-101.31,78.63,0.86,Critical,Balanced
+S4_RainBoost,28,High,410.06,412.25,-2.2,99.47,0.77,Stable,Balanced
+S5_Optimized,28,High,372.78,412.25,-39.48,90.42,0.82,Critical,Optimized Allocation
+S1_Normal,29,High,368.56,377.08,-8.52,97.74,0.83,Stable,Balanced
+S2_LowSupply,29,High,313.28,377.08,-63.8,83.08,0.93,Critical,Residential Priority
+S3_HighDemand,29,High,368.56,433.64,-65.08,84.99,0.88,Critical,Balanced
+S4_RainBoost,29,High,405.42,377.08,28.34,100.0,0.91,Stable,Balanced
+S5_Optimized,29,High,368.56,377.08,-8.52,97.74,0.85,Stable,Optimized Allocation
+S1_Normal,30,Low,390.38,394.48,-4.09,98.96,0.89,Stable,Balanced
+S2_LowSupply,30,Low,331.83,394.48,-62.65,84.12,0.81,Critical,Residential Priority
+S3_HighDemand,30,Low,390.38,453.65,-63.26,86.05,0.75,Critical,Balanced
+S4_RainBoost,30,High,429.42,394.48,34.95,100.0,0.88,Stable,Balanced
+S5_Optimized,30,High,390.38,394.48,-4.09,98.96,0.79,Stable,Optimized Allocation
+S1_Normal,31,High,415.83,426.78,-10.94,97.44,0.82,Stressed,Balanced
+S2_LowSupply,31,High,353.46,426.78,-73.32,82.82,0.75,Critical,Residential Priority
+S3_HighDemand,31,High,415.83,490.79,-74.96,84.73,0.94,Critical,Balanced
+S4_RainBoost,31,High,457.42,426.78,30.64,100.0,0.84,Stable,Balanced
+S5_Optimized,31,High,415.83,426.78,-10.94,97.44,0.94,Stressed,Optimized Allocation
+S1_Normal,32,Low,417.45,419.71,-2.26,99.46,0.83,Stable,Balanced
+S2_LowSupply,32,Low,354.84,419.71,-64.88,84.54,0.92,Critical,Residential Priority
+S3_HighDemand,32,Low,417.45,482.67,-65.21,86.49,0.81,Critical,Balanced
+S4_RainBoost,32,High,459.2,419.71,39.49,100.0,0.78,Stable,Balanced
+S5_Optimized,32,High,417.45,419.71,-2.26,99.46,0.86,Stable,Optimized Allocation
+S1_Normal,33,Normal,415.53,408.72,6.81,100.0,0.77,Stable,Balanced
+S2_LowSupply,33,Normal,353.2,408.72,-55.52,86.42,0.87,Critical,Residential Priority
+S3_HighDemand,33,Normal,415.53,470.03,-54.5,88.41,0.95,Critical,Balanced
+S4_RainBoost,33,High,457.08,408.72,48.36,100.0,0.78,Stable,Balanced
+S5_Optimized,33,High,415.53,408.72,6.81,100.0,0.85,Stable,Optimized Allocation
+S1_Normal,34,Normal,411.42,411.85,-0.44,99.89,0.89,Stable,Balanced
+S2_LowSupply,34,Normal,349.7,411.85,-62.15,84.91,0.82,Critical,Residential Priority
+S3_HighDemand,34,Normal,411.42,473.63,-62.22,86.86,0.81,Critical,Balanced
+S4_RainBoost,34,High,452.56,411.85,40.7,100.0,0.91,Stable,Balanced
+S5_Optimized,34,High,411.42,411.85,-0.44,99.89,0.91,Stable,Optimized Allocation
+S1_Normal,35,Normal,410.7,423.93,-13.23,96.88,0.85,Stressed,Balanced
+S2_LowSupply,35,Normal,349.09,423.93,-74.84,82.35,0.91,Critical,Residential Priority
+S3_HighDemand,35,Normal,410.7,487.52,-76.82,84.24,0.88,Critical,Balanced
+S4_RainBoost,35,High,451.76,423.93,27.84,100.0,0.89,Stable,Balanced
+S5_Optimized,35,High,410.7,423.93,-13.23,96.88,0.91,Stressed,Optimized Allocation
+S1_Normal,36,Normal,412.3,383.66,28.64,100.0,0.77,Stable,Balanced
+S2_LowSupply,36,Normal,350.46,383.66,-33.2,91.35,0.87,Critical,Residential Priority
+S3_HighDemand,36,Normal,412.3,441.21,-28.91,93.45,0.76,Stressed,Balanced
+S4_RainBoost,36,High,453.53,383.66,69.87,100.0,0.84,Stable,Balanced
+S5_Optimized,36,High,412.3,383.66,28.64,100.0,0.86,Stable,Optimized Allocation
+S1_Normal,37,Low,370.06,401.36,-31.3,92.2,0.76,Critical,Balanced
+S2_LowSupply,37,Low,314.55,401.36,-86.81,78.37,0.91,Critical,Residential Priority
+S3_HighDemand,37,Low,370.06,461.56,-91.5,80.18,0.82,Critical,Balanced
+S4_RainBoost,37,High,407.06,401.36,5.71,100.0,0.78,Stable,Balanced
+S5_Optimized,37,High,370.06,401.36,-31.3,92.2,0.85,Critical,Optimized Allocation
+S1_Normal,38,Normal,403.9,375.11,28.79,100.0,0.77,Stable,Balanced
+S2_LowSupply,38,Normal,343.31,375.11,-31.79,91.52,0.76,Critical,Residential Priority
+S3_HighDemand,38,Normal,403.9,431.37,-27.47,93.63,0.86,Stressed,Balanced
+S4_RainBoost,38,High,444.29,375.11,69.18,100.0,0.86,Stable,Balanced
+S5_Optimized,38,High,403.9,375.11,28.79,100.0,0.88,Stable,Optimized Allocation
+S1_Normal,39,Normal,400.83,428.31,-27.48,93.58,0.81,Stressed,Balanced
+S2_LowSupply,39,Normal,340.7,428.31,-87.61,79.55,0.91,Critical,Residential Priority
+S3_HighDemand,39,Normal,400.83,492.56,-91.73,81.38,0.8,Critical,Balanced
+S4_RainBoost,39,High,440.91,428.31,12.6,100.0,0.84,Stable,Balanced
+S5_Optimized,39,High,400.83,428.31,-27.48,93.58,0.77,Stressed,Optimized Allocation
+S1_Normal,40,High,351.77,427.39,-75.61,82.31,0.89,Critical,Balanced
+S2_LowSupply,40,High,299.01,427.39,-128.38,70.0,0.83,Critical,Residential Priority
+S3_HighDemand,40,High,351.77,491.49,-139.72,71.57,0.78,Critical,Balanced
+S4_RainBoost,40,High,386.95,427.39,-40.43,90.54,0.78,Critical,Balanced
+S5_Optimized,40,High,351.77,427.39,-75.61,82.31,0.8,Critical,Optimized Allocation
+S1_Normal,41,Normal,388.45,410.02,-21.58,94.74,0.81,Stressed,Balanced
+S2_LowSupply,41,Normal,330.18,410.02,-79.84,80.53,0.94,Critical,Residential Priority
+S3_HighDemand,41,Normal,388.45,471.52,-83.08,82.38,0.9,Critical,Balanced
+S4_RainBoost,41,High,427.29,410.02,17.27,100.0,0.86,Stable,Balanced
+S5_Optimized,41,High,388.45,410.02,-21.58,94.74,0.87,Stressed,Optimized Allocation
+S1_Normal,42,Normal,379.37,377.34,2.03,100.0,0.9,Stable,Balanced
+S2_LowSupply,42,Normal,322.47,377.34,-54.87,85.46,0.75,Critical,Residential Priority
+S3_HighDemand,42,Normal,379.37,433.94,-54.57,87.42,0.77,Critical,Balanced
+S4_RainBoost,42,High,417.31,377.34,39.97,100.0,0.76,Stable,Balanced
+S5_Optimized,42,High,379.37,377.34,2.03,100.0,0.76,Stable,Optimized Allocation
+S1_Normal,43,Normal,409.88,409.26,0.63,100.0,0.77,Stable,Balanced
+S2_LowSupply,43,Normal,348.4,409.26,-60.86,85.13,0.85,Critical,Residential Priority
+S3_HighDemand,43,Normal,409.88,470.64,-60.76,87.09,0.84,Critical,Balanced
+S4_RainBoost,43,High,450.87,409.26,41.61,100.0,0.78,Stable,Balanced
+S5_Optimized,43,High,409.88,409.26,0.63,100.0,0.84,Stable,Optimized Allocation
+S1_Normal,44,Normal,377.9,403.11,-25.21,93.75,0.76,Stressed,Balanced
+S2_LowSupply,44,Normal,321.21,403.11,-81.9,79.68,0.82,Critical,Residential Priority
+S3_HighDemand,44,Normal,377.9,463.58,-85.68,81.52,0.88,Critical,Balanced
+S4_RainBoost,44,High,415.68,403.11,12.58,100.0,0.85,Stable,Balanced
+S5_Optimized,44,High,377.9,403.11,-25.21,93.75,0.92,Stressed,Optimized Allocation
+S1_Normal,45,Low,396.11,371.41,24.7,100.0,0.88,Stable,Balanced
+S2_LowSupply,45,Low,336.69,371.41,-34.71,90.65,0.76,Critical,Residential Priority
+S3_HighDemand,45,Low,396.11,427.12,-31.01,92.74,0.87,Critical,Balanced
+S4_RainBoost,45,High,435.72,371.41,64.31,100.0,0.94,Stable,Balanced
+S5_Optimized,45,High,396.11,371.41,24.7,100.0,0.87,Stable,Optimized Allocation
+S1_Normal,46,Normal,377.17,405.03,-27.86,93.12,0.86,Stressed,Balanced
+S2_LowSupply,46,Normal,320.6,405.03,-84.43,79.15,0.94,Critical,Residential Priority
+S3_HighDemand,46,Normal,377.17,465.78,-88.61,80.98,0.83,Critical,Balanced
+S4_RainBoost,46,High,414.89,405.03,9.86,100.0,0.94,Stable,Balanced
+S5_Optimized,46,High,377.17,405.03,-27.86,93.12,0.93,Stressed,Optimized Allocation
+S1_Normal,47,Low,363.71,364.86,-1.15,99.68,0.75,Stable,Balanced
+S2_LowSupply,47,Low,309.15,364.86,-55.71,84.73,0.77,Critical,Residential Priority
+S3_HighDemand,47,Low,363.71,419.58,-55.88,86.68,0.89,Critical,Balanced
+S4_RainBoost,47,High,400.08,364.86,35.22,100.0,0.76,Stable,Balanced
+S5_Optimized,47,High,363.71,364.86,-1.15,99.68,0.81,Stable,Optimized Allocation
+S1_Normal,48,High,409.14,361.63,47.51,100.0,0.81,Stable,Balanced
+S2_LowSupply,48,High,347.77,361.63,-13.86,96.17,0.77,Stressed,Residential Priority
+S3_HighDemand,48,High,409.14,415.87,-6.73,98.38,0.89,Stable,Balanced
+S4_RainBoost,48,High,450.06,361.63,88.43,100.0,0.88,Stable,Balanced
+S5_Optimized,48,High,409.14,361.63,47.51,100.0,0.93,Stable,Optimized Allocation
+S1_Normal,49,Low,401.45,416.24,-14.79,96.45,0.79,Stressed,Balanced
+S2_LowSupply,49,Low,341.24,416.24,-75.01,81.98,0.9,Critical,Residential Priority
+S3_HighDemand,49,Low,401.45,478.68,-77.23,83.87,0.91,Critical,Balanced
+S4_RainBoost,49,High,441.6,416.24,25.36,100.0,0.95,Stable,Balanced
+S5_Optimized,49,High,401.45,416.24,-14.79,96.45,0.83,Stressed,Optimized Allocation
+S1_Normal,50,Normal,376.04,414.35,-38.31,90.75,0.94,Critical,Balanced
+S2_LowSupply,50,Normal,319.64,414.35,-94.71,77.14,0.92,Critical,Residential Priority
+S3_HighDemand,50,Normal,376.04,476.5,-100.46,78.92,0.84,Critical,Balanced
+S4_RainBoost,50,High,413.65,414.35,-0.7,99.83,0.9,Stable,Balanced
+S5_Optimized,50,High,376.04,414.35,-38.31,90.75,0.9,Critical,Optimized Allocation
+S1_Normal,51,Normal,357.22,423.18,-65.96,84.41,0.92,Critical,Balanced
+S2_LowSupply,51,Normal,303.64,423.18,-119.54,71.75,0.81,Critical,Residential Priority
+S3_HighDemand,51,Normal,357.22,486.66,-129.44,73.4,0.93,Critical,Balanced
+S4_RainBoost,51,High,392.94,423.18,-30.24,92.85,0.83,Critical,Balanced
+S5_Optimized,51,High,357.22,423.18,-65.96,84.41,0.75,Critical,Optimized Allocation
+S1_Normal,52,Normal,413.38,366.39,46.99,100.0,0.94,Stable,Balanced
+S2_LowSupply,52,Normal,351.37,366.39,-15.02,95.9,0.94,Stressed,Residential Priority
+S3_HighDemand,52,Normal,413.38,421.35,-7.97,98.11,0.86,Stable,Balanced
+S4_RainBoost,52,High,454.71,366.39,88.32,100.0,0.88,Stable,Balanced
+S5_Optimized,52,High,413.38,366.39,46.99,100.0,0.84,Stable,Optimized Allocation
