@@ -160,10 +160,10 @@ const Predictor: React.FC = () => {
                     <span className="text-slate-600">Pilloor</span>
                     <span className="font-bold">{prediction.pilloor_supply_mld}</span>
                   </li>
-                  <li className="flex justify-between">
+                  {/* <li className="flex justify-between">
                     <span className="text-slate-600">Groundwater</span>
                     <span className="font-bold">{prediction.groundwater_supply_mld}</span>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
             </div>
