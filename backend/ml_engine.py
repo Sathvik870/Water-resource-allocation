@@ -237,4 +237,3 @@ class WaterPredictor:
             "supply_hours_per_day": round(ops[0], 1),
             "pumping_capacity_mld": round(ops[1], 2)
         }
-        
